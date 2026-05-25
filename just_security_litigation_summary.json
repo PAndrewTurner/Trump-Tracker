@@ -1,0 +1,34 @@
+{
+  "total_cases": 805,
+  "as_of_scrape": "2026-05-24",
+  "status_breakdown": {
+    "Awaiting Court Ruling": 362,
+    "Government Action Temporarily Blocked": 137,
+    "Government Action Blocked": 64,
+    "Temporary Block of Government Action Denied": 56,
+    "Government Action Not Blocked Pending Appeal": 42,
+    "Case Closed": 37,
+    "Government Action Blocked Pending Appeal": 34,
+    "Case Closed/Dismissed in Favor of Government": 28,
+    "Case Closed in Favor of Plaintiff": 27,
+    "Government Action Temporarily Blocked in Part; Temporary Block Denied in Part": 17
+  },
+  "issue_breakdown": {
+    "Immigration and Citizenship": 180,
+    "Structure of Government/Personnel": 151,
+    "Government Grants, Loans, and Assistance": 148,
+    "Transparency": 113,
+    "Civil Liberties and Rights": 94,
+    "Environment": 56,
+    "Diversity, Equity, Inclusion, and Accessibility": 30,
+    "Federalism": 9,
+    "Trade Law": 8,
+    "Removal of Information from Government Websites": 5,
+    "Enforcement": 5,
+    "International Institutions": 3,
+    "Miscellaneous": 3
+  },
+  "blocked_total": 294,
+  "temporarily_blocked": 154,
+  "permanently_blocked": 64
+}

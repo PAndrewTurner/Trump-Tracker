@@ -1,0 +1,466 @@
+
+
+
+
+
+
+
+
+
+Deportation Data Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deportation Data Project
+
+
+
+
+
+
+
+
+
+ EnglishEspañol
+
+
+
+Analysis
+
+
+
+Data
+
+
+
+
+ Overview
+
+
+Processed and compiled data
+
+
+ICE: Immigration and Customs Enforcement
+
+
+
+ Arrests, detainers, detentions, encounters, and removals
+
+
+
+ Detention management data
+
+
+
+ Detention facilities
+
+
+
+ Field offices
+
+
+
+EOIR: Executive Office for Immigration Review (Immigration Courts)
+
+
+Original data
+
+
+ICE: Immigration and Customs Enforcement
+
+
+
+CBP: Customs and Border Protection
+
+
+
+EOIR: Executive Office for Immigration Review (Immigration Courts)
+
+
+
+EOUSA: Executive Office for United States Attorneys (Immigration Prosecutions)
+
+
+
+
+Agency reports
+
+
+
+
+
+Documentation
+
+
+
+
+ Data guide
+
+
+
+
+ICE: Immigration and Customs Enforcement
+
+
+
+ FAQ
+
+
+
+ Core data
+
+
+
+ Detention facilities
+
+
+
+ Facility daily populations
+
+
+
+ Field offices
+
+
+
+ Documents
+
+
+
+
+CBP: Customs and Border Protection
+
+
+
+ Documents
+
+
+
+
+EOIR: Executive Office for Immigration Review (Immigration Courts)
+
+
+
+ Codebook (processed)
+
+
+
+ Codebook (original)
+
+
+
+ Documents
+
+
+
+
+EOUSA: Executive Office for United States Attorneys (Immigration Prosecutions)
+
+
+
+ Documents
+
+
+
+
+All agency documentation
+
+
+
+FOIA requests
+
+
+
+
+
+Tools
+
+
+
+
+ Tools overview
+
+
+Immigration court
+
+
+Immigration court cases
+
+
+ICE individual-level
+
+
+Arrests
+
+
+
+Detainers
+
+
+
+Detention stays
+
+
+ICE detention facilities & offices
+
+
+Daily population counts
+
+
+
+Detention facilities
+
+
+
+Field offices
+
+
+
+
+
+News
+
+
+
+About
+
+
+
+Related
+
+
+
+
+Related projects
+
+
+
+Research studies
+
+
+
+
+
+Support DDP
+
+
+ 
+
+
+ 
+
+
+New data release (March 2026): ICE arrests, detainers, detentions, encounters, and removals data now available through early March 2026. Read more.
+
+
+
+
+
+
+
+
+Deportation Data Project
+
+
+
+
+
+
+The Deportation Data Project obtains, posts, and analyzes internal U.S. government immigration enforcement data via public records litigation.
+
+
+
+
+ Analysis
+New Report: One Year of Immigration Enforcement Under the Second Trump Administration
+
+Read report
+
+ Data
+Explore data, to filter, sort, and download:
+ ICE arrests
+ ICE detainer requests
+ ICE detention stays
+ ICE facility daily populations
+ Immigration court cases
+ ICE detention facilities
+ ICE offices
+Download data:
+Processed & compiled ICE data
+Processed EOIR data
+Original data
+
+ Documentation
+Get started with our guide to immigration enforcement data across the government:
+Read data guide
+
+Questions about the most recent ICE data?
+Watch ICE data webinar
+Read ICE data FAQ
+
+
+
+
+
+
+
+Recent media coverage
+
+
+
+
+
+
+
+
+
+DHS low staffing & policies increase deaths
+
+
+CNN
+
+
+
+May 15, 2026
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enforcement in CO: 3 Charts
+
+
+Colorado Sun
+
+
+
+May 4, 2026
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICE Awaits Immigrants After Prison
+
+
+Marshall Project
+
+
+
+May 2, 2026
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICE Arrests of NY Asians Up 600%
+
+
+Documented
+
+
+
+Apr. 30, 2026
+
+
+
+
+
+
+
+No matching items
+
+What we do
+
+
+ FOIA litigation
+
+We obtain immigration enforcement data from the U.S. government, primarily through Freedom of Information Act litigation.
+Explore FOIA work
+
+
+ Building tools
+
+We share datasets that we obtain, that the government posts proactively in response to other requests, and that others share with us.
+Explore tools
+
+
+ Explaining data
+
+We document the data we post, write codebooks, post internal documentation, and publish analyses of the data.
+Read data guide
+
+
+
+
+
+
+
+ Join for updates
+Subscribe to receive email notifications of each new data release.
+Subscribe
+
+ Share your data
+We would love to post or link to your public, shareable data (crediting you).
+Share
+
+ Ask a question
+Let us know if we can answer your data questions. If we can’t, we’ll refer you.
+Ask
+
+
+
+
+
+ 
+
+
+       
+    
+
+Licensed CC-0 (no rights reserved)
+
+
+       
+    
+
+
+
+

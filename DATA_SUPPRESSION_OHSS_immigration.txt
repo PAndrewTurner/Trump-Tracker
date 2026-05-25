@@ -1,0 +1,16 @@
+OHSS DATA SUPPRESSION — Documented 2026-05-24
+
+The DHS Office of Homeland Security Statistics (OHSS) monthly
+immigration enforcement tables were last published on January 16, 2025,
+covering data through November 2024.
+
+No new monthly tables have been published for any month in 2025 or 2026.
+The Trump administration has stopped releasing this statistical series.
+
+Source: https://ohss.dhs.gov/topics/immigration/immigration-enforcement/monthly-tables
+Last file: 2025_0116_ohss_immigration-enforcement-and-legal-processes-tables-november-2024.xlsx
+
+Alternative sources being used instead:
+1. Deportation Data Project (deportationdata.org) — FOIA litigation
+2. TRAC Syracuse (tracreports.org) — FOIA litigation  
+3. ICE ERO Statistics (ice.gov/statistics) — incomplete, irregular

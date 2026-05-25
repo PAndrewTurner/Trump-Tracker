@@ -1,0 +1,248 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SSA State Agency Monthly Workload Data | Disability | SSA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+Here's how you know 
+
+
+
+Official websites use .govA .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPSA lock (
+              
+              ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+...
+
+
+
+
+
+
+
+
+...
+
+
+
+
+
+
+
+
+Social Security
+
+
+
+
+X
+
+
+Benefits
+
+
+
+
+
+
+
+BY PHASE
+
+Prepare
+Apply
+Manage benefits
+
+
+
+BY TYPE
+
+Retirement
+Disability
+Survivor
+Family
+Supplemental Security Income (SSI)
+
+
+
+
+Benefits overview
+
+
+
+
+
+Medicare
+
+
+
+
+
+
+
+Plan for Medicare
+Sign up for Medicare
+Request to lower IRMAA
+Apply for Part D Extra Help
+Manage Medicare benefits
+
+
+
+
+
+Card & record
+
+
+
+
+
+
+
+Number & card
+Personal record
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+Español
+
+
+
+
+
+
+Sign in
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+SSA State Agency Monthly Workload Data
+
+
+
+
+
+
+
+
+
+SSA Home
+Disability
+SSA State Agency Monthly Workload Data
+
+
+
+Click file to download: 
+ Size: Under 10Mb
+ Size: Under 30Mb
+[Go to Table of Contents]
+Expanded dataset:  The current version expands the number of  data elements available from 4 to 71 principally with data not previously  published.  See the change history and the data  dictionary for additional information.
+This documentation describes a publicly available dataset  containing historical and current information about the processing by the  Social Security Administration (SSA) of claims for disability benefits.  The dataset includes monthly information from  October 2000 onwards concerning claims for disability benefits that were  referred for a disability determination to one of the 54 state  agencies.  The data may be used to  examine disability application filing trends by time and by state, state agency  workloads, and disability claims outcomes.   Refer to the data dictionary for a  complete description of individual data items.   Specific data elements for each state agency are claim workload  receipts, end of period pending counts, determinations, and the number of determinations which were favorable.  Data is provided at the initial claims and reconsideration levels, and for continuing disability  reviews (CDRs).  Breakouts are  provided for Social Security Disability Insurance (SSDI),  Supplemental Security Income (SSI), and concurrent claims (both SSDI and SSI).
+A CSV dataset containing monthly data can  be downloaded from: https://www.ssa.gov/disability/data/SSA-SA-MOWL.csv  .  
+An XLS version of the same monthly  dataset can be downloaded from:
+https://www.ssa.gov/disability/data/SSA-SA-MOWL.xls
+A dataset which contains state agency receipt, clearance and  allowance data on a fiscal year basis as part of its data is described at https://www.ssa.gov/disability/data/ssa-sa-fywl.htm.  This fiscal year file also contains  additional information which allows a more refined analysis of disability  claims including eligible population filing and allowance rates.
+These datasets are also available through the data.gov raw  data catalog at https://www.data.gov/.
+Index:                                                [Go to Top]
+Agency Program Description
+Data Set Description
+Time Period Description
+Data Collection Description
+Technical Documentation
+Data Dictionary
+Bibliographic Citation
+Change History
+ 
+Agency Program Description             [Go to Table of Contents]  [Go to Top]
+The Social Security Administration (SSA) administers several  programs which provide benefits to those who are both disabled and meet other  program eligibility requirements. The process for determining whether or not a  claimant is disabled is complex.   Depending upon a particular claim SSA might evaluate among other factors  medical evidence establishing a disabling condition, medical and vocational  evidence determining the capacity for work that might remain, the ability to  perform past work, the availability of possibly suitable employment, and  severity and length of disability.  For  SSA purposes a claimant is either found disabled or not disabled as SSA awards  disability benefits only for long term or terminal disability and not for  partial or temporary disability.  A  description of SSA’s disability programs can be found at https://www.ssa.gov/disability. 
+Pursuant to statute, initial claims for disability benefits  are usually sent by SSA to a state agency which,  following SSA rules and guidelines, makes the initial determination on behalf  of SSA as to whether or not a claimant is disabled.  The state agency is an entity of the state  government in which it is located, and is reimbursed by SSA for all costs  incurred by the state agency while performing work for SSA.  In addition to the fifty states a disability  unit exists for the District of Columbia,  Puerto Rico and Guam.  The term “state agency” applies to these  additional entities as well.  SSA also  refers to a state agency as a Disability Determination Service (DDS).  This dataset includes information beginning  with October 2000 concerning the workload processed by state agencies, and by  federal components performing work similar to that of a state agency.
+The state agencies’ primary responsibility is to make  medical determinations for SSA on claims filed by residents of the state or similar entity.  However,  states with heavy workloads might transfer cases to other state agencies or to  a federal component, and states with available capacity may receive cases  transferred from other state agencies.    The state agencies for states bordering Canada  may also process claims for Canada,  and the state agencies bordering Mexico  may also process claims for Mexico.  Disability determinations for any other  residents not mentioned are handled by a federal component.
+Eligibility for disability benefits for programs  administered by SSA always have two sets of eligibility criteria, namely  disability and non-disability criteria.   A favorable finding is required for both disability and non-disability  criteria in order for benefits to be awarded.   State agencies make a determination only for the disability criteria.  The most time consuming and work intensive  part of processing a claim for disability benefits whether SSDI or SSI is  usually the disability determination.
+SSA administers two different programs which pay disability  benefits, Social Security Disability Insurance benefits (SSDI),  and Supplemental Security Income (SSI).  The disability standard for SSDI and SSI  benefits are the same except for issues of blindness and for SSI  Disabled Child benefits.  Beyond the  factor of disability, benefit eligibility and amount for SSDI depends primarily  on the amount and timing of earnings of the person on whose Social Security  account the claim is being made.  SSDI  benefits of some amount are generally payable to a person who has become disabled  and who has a claim against an account where Social Security taxes were  regularly being paid.
+In addition to being found disabled, benefit eligibility and  amount for SSI benefits depends on income and resources available plus other  factors such as residency and US  citizenship status.  SSI benefits are  generally payable only to those who are disabled and of quite limited income  and resources.  
+ 
+Data Set Description               [Go to Table of Contents]  [Go to Top]
+Conclusions concerning the residency of disability applicants need to take into consideration that for workload  management reasons claims for residents of one state might be referred to the  state agency of another state.  “State”  as used for these datasets refers to the state of the state agency making the  disability determination, and not to the state of residency of the applicant or  beneficiary.
+Also, this dataset includes only disability claims sent to a  state agency for a determination concerning disability criteria.  Disability claims which do not meet the  non-disability criteria are normally denied without being sent to a state  agency.  Claims pending in a state agency  will be returned to SSA without a determination if SSA determines while a claim  is pending in a state agency that non-disability criteria were not met.  Some favorable disability determinations made  by a state agency may still ultimately result in denials due to a failure to  meet non-disability criteria uncovered after the favorable state agency  determination was made.  In a small  number of cases a prior favorable or unfavorable decision may be adopted  without the claim being sent to a state agency.   In a small number of cases a new claim might be joined to an appeal for  a prior claim with that new claim then bypassing the state agency.  
+SSA refers to the simultaneous filing by the same person of  an SSI claim and an SSDI disability claim as a “concurrent"  claim filing.  Where an applicant applies  for both SSI and SSDI benefits that claim is normally counted only once since  there is usually no additional level of effort required if both types of claims  are processed together.  Simultaneous  claims for the small number of cases where multiple SSDI benefits are filed by  the same person at the same time are each counted separately.  For example, an applicant could conceivably  under the appropriate circumstances file an SSDI disability claim whose amount  if awarded might be based upon their own earnings, those of a deceased spouse,  or those of one or more parents already receiving SSDI benefits based on the  parent’s own earnings.
+The division of claims between SSDI, SSI and concurrent claims can provide  significant information about the socioeconomic status of applicants and the  demographics of the state agency service area.   SSDI-only applicants have a work history and enough income or resources  so that they do not qualify for SSI.   SSI-only applicants do not have a recent work history and have very low  or no income and resources so that they would probably qualify for SSI.  Concurrent-only applicants have a recent work  history yet also have so little income and resources that they might also  qualify for SSI.
+Claims filing analysis can be accomplished by comparing all  cases, SSDI only cases, all SSDI cases (SSDI only plus concurrent only cases), concurrent cases (both SSDI and SSI), all SSI cases (SSI only plus concurrent only cases), and  SSI only cases.  The associated data  files provide counts of all cases and breakouts for SSDI only, SSI only and  concurrent only.   To analyze all SSDI  cases you would need to combine SSDI only and concurrent cases.  To analyze all SSI cases you would need to  combine SSI only and concurrent cases.
+The first time a state agency reviews a claim for disability  benefits SSA refers to that first filing as an “initial  claim.”  If an initial claim is  denied, that denial can be appealed.  For  some state agencies these denied and appealed initial claims are next reviewed  by independent adjudicators at a state agency, and these appealed claims are  referred to by SSA as “reconsiderations.”  For other state agencies an appeal of a  denied initial claim bypasses the reconsideration step and is referred to a  Social Security Administrative Law Judge, with these appealed claims being  referred to as a “hearing request.”  
+Before October 1, 1999, all denied initial claims would be  referred on appeal for a reconsideration, and all subsequently denied  reconsiderations which were appealed would be referred for a hearing.  Beginning October 1, 1999, appealed initial  claims in some states would bypass the reconsideration step and be referred for  a hearing.  These states are referred to  as “prototype states” as this was a part of a  demonstration prototype project still underway at SSA.  Field AH below  indicates whether or not a state is a prototype state for the time period for  the row of data provided.  Not all states  implemented prototype at the same time.   Some states with multiple locations may have implemented prototype at  different times for different locations.   California  implemented prototype at only some of its sites, representing on average about  23 percent of its cases.  The prototype indicator in this dataset is set to “Y” if any  part of the state participated in the prototype process that month.  Prototype states may still process  reconsiderations where the initial claim was not processed in a prototype  state, even though the applicant subsequently moved to a prototype state.  Prototype states may also process  reconsiderations for residents of other states as part of workload balancing.
+Data presented for initial claims and for reconsiderations are not longitudinal,  that is, a reconsideration request does not necessarily represent a specific  initial claim that was denied at the initial claims level by the same state  agency now processing the reconsideration of that denied initial claim.  In particular a reconsideration appeal rate  cannot even be estimated or approximated for prototype states from data present  in these datasets for reasons described in the previous paragraph.
+Data are also provided for Continuing Disability Reviews (CDRs).  A state agency may  be requested by SSA to conduct a medical review of a claim based on disability  that was previously approved.  The  purpose of the review is to determine whether or not the disability still  exists, and therefore whether disability benefits should continue to be  provided by SSA.  A favorable decision on  a CDR is referred to as a “continuation” and an unfavorable decision is  referred to as a “cessation.”  CDRs  processed by a state agency are evaluated using a medical review.  Other CDRs processed elsewhere in SSA can be  evaluated based upon work activity rather than medical criteria.  These work activity CDRs evaluate work  activity independent of medical criteria to determine if the work itself  demonstrates an ability to engage in “substantial gainful activity” and  therefore warrant a cessation action.   The subject datasets discussed here include only medical CDRs conducted  in a state agency and do not include any work CDRs.
+When evaluating disability status, persons applying for SSI  who are under age 18 are evaluated with different disability eligibility  criteria from those over age 18.  Data in  these datasets are separately provided at the initial claim and reconsideration  levels for these SSI Disabled Child (SSI DC)  claims.  SSI DC  claims should not be confused with SSDI child benefits.  SSDI child benefits are usually paid because  the parent is retired or deceased and the child is under a certain age or a  student, and not because the SSDI child is disabled.  There is a category of SSDI claims called both  “childhood disability benefits” (CDB) or “disabled adult children” (DAC) which  refers to persons over 18 who became

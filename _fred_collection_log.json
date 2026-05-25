@@ -1,0 +1,86 @@
+{
+  "CPIAUCSL": {
+    "status": "ok",
+    "rows": 0,
+    "start": "NaT",
+    "end": "NaT"
+  },
+  "CUSR0000SAF11": {
+    "status": "ok",
+    "rows": 0,
+    "start": "NaT",
+    "end": "NaT"
+  },
+  "CUSR0000SEHF01": {
+    "status": "ok",
+    "rows": 0,
+    "start": "NaT",
+    "end": "NaT"
+  },
+  "CUSR0000SEHG": {
+    "status": "ok",
+    "rows": 0,
+    "start": "NaT",
+    "end": "NaT"
+  },
+  "CES0500000003": {
+    "status": "ok",
+    "rows": 0,
+    "start": "NaT",
+    "end": "NaT"
+  },
+  "UNRATE": {
+    "status": "ok",
+    "rows": 0,
+    "start": "NaT",
+    "end": "NaT"
+  },
+  "MANEMP": {
+    "status": "ok",
+    "rows": 0,
+    "start": "NaT",
+    "end": "NaT"
+  },
+  "MORTGAGE30US": {
+    "status": "ok",
+    "rows": 0,
+    "start": "NaT",
+    "end": "NaT"
+  },
+  "GDPC1": {
+    "status": "ok",
+    "rows": 0,
+    "start": "NaT",
+    "end": "NaT"
+  },
+  "A191RL1Q225SBEA": {
+    "status": "ok",
+    "rows": 0,
+    "start": "NaT",
+    "end": "NaT"
+  },
+  "C307RX1Q020SBEA": {
+    "status": "ok",
+    "rows": 0,
+    "start": "NaT",
+    "end": "NaT"
+  },
+  "IR": {
+    "status": "ok",
+    "rows": 0,
+    "start": "NaT",
+    "end": "NaT"
+  },
+  "IQ": {
+    "status": "ok",
+    "rows": 0,
+    "start": "NaT",
+    "end": "NaT"
+  },
+  "GASREGCOVW": {
+    "status": "ok",
+    "rows": 0,
+    "start": "NaT",
+    "end": "NaT"
+  }
+}

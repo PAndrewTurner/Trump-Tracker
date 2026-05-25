@@ -1,0 +1,20 @@
+{
+  "source": "SSA Performance Dashboard",
+  "url": "https://www.ssa.gov/ssa-performance/disability-appeals-time",
+  "scrape_date": "2026-05-24",
+  "note": "SSA page uses JavaScript charts \u2014 text extraction only. No machine-readable tables available.",
+  "metrics": {
+    "phone_800_avg_wait_march_2025": "20 minutes",
+    "phone_800_answer_rate_march_2025": "41%",
+    "phone_800_avg_wait_march_2026": "7 minutes",
+    "phone_800_answer_rate_march_2026": "83%",
+    "field_office_wait_with_appt": "~6 minutes",
+    "hearings_processing_goal_days": 270,
+    "total_hours_saved_march2025_to_march2026": "13.5 million hours",
+    "online_services_hours_saved": "9.1 million hours",
+    "phone_hours_saved": "3.9 million hours",
+    "field_office_hours_saved": "500,000 hours"
+  },
+  "context": "SSA claims improved performance under DOGE - wait times DOWN from 20 to 7 min on 800 number. BUT: SSA also closed field offices and cut ~7,000 staff, which will likely increase wait times for in-person and complex claims. Disability determination processing times are chart-based (no text values available).",
+  "doge_impact_note": "SSA lost ~7,000 employees in early 2025 under DOGE. 47 field offices closed. Long-term wait time impacts expected but not yet fully reflected in available data."
+}
